@@ -1,5 +1,6 @@
 <head><h1>Danchanka Kiryl</h1></head>
 
+<body>
 <h2>Contacts</h2>
 <ul>
   <li><b>Location:</b> Belarus, Minsk</li>
@@ -40,3 +41,5 @@ Minsk</b>: Computer Technology, Industrial Electronics
   <li><b>English</b> — A2 — Elementary</li>
   <li><b>Russian</b> — Native</li>	 
 </ul>
+  
+  </body>
