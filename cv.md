@@ -5,7 +5,7 @@
   <li><b>Location:</b> Belarus, Minsk</li>
   <li><b>Phone:</b> +375 44 785 36 35</li>
   <li><b>Email:</b> manufest22@gmail.com</li>
-  <li><b>GitHub:</b> Logobod</li>
+  <li><b>GitHub:</b> <a href="https://github.com/Logobod">Logobod</a></li>
   </ul>
 
   <h2>Summary</h2>
