@@ -43,3 +43,8 @@ Minsk</b>: Computer Technology, Industrial Electronics
 </ul>
   
   </body>
+
+
+
+
+class="summary" id="contacts"
